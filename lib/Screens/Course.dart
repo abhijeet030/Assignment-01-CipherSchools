@@ -114,7 +114,7 @@ class _CourseScreenState extends State<CourseScreen> {
           'assets/icon/Cipherschools.png',
         ),
         title: Text(
-          'CypherSchools',
+          'CipherSchools',
           style: TextStyle(
               fontWeight: FontWeight.bold,
               color: Colors.black,

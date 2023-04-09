@@ -129,7 +129,7 @@ class _HomePageState extends State<HomePage> {
           'assets/icon/Cipherschools.png',
         ),
         title: Text(
-          'CypherSchools',
+          'CipherSchools',
           style: TextStyle(
               fontWeight: FontWeight.bold,
               color: Colors.black,
